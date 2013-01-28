@@ -1,0 +1,6 @@
+# the words which are followed by a question phrase
+what
+which
+where
+how
+find

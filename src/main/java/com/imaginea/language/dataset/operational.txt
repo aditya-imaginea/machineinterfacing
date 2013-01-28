@@ -1,0 +1,15 @@
+# the words which take parameters and return a query
+# the operational words could take the form 
+#<operational> param1 param2 
+#or
+#param1 <operational> param2
+# where param1 & param2 could be phrases containing a domain object
+per
+aggregate
+between
+percentage
+aggregate
+high
+low
+max
+min
